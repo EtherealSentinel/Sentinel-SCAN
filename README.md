@@ -15,7 +15,7 @@ It performs port scanning, HTTP service analysis, and directory brute-force enum
 
 ## 🧪 Usage
 
-- python main.py <target>
+- python main.py <example.com>
 
 ## ⚙️ Installation
 
