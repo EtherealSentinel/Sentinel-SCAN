@@ -3,7 +3,7 @@
 Sentinel-Scan is a lightweight, modular Red Team reconnaissance tool developed in Python.  
 It performs port scanning, HTTP service analysis, and directory brute-force enumeration on a target IP or domain.
 
-**⚠️ WARNING**: For educational purposes only. Unauthorized use is illegal!  
+
 
 ## 🚀 Features
 
@@ -22,3 +22,11 @@ It performs port scanning, HTTP service analysis, and directory brute-force enum
 ```bash
 git clone https://github.com/EtherealSentinel/Sentinel-Scan.git
 cd Sentinel-Scan
+```
+
+**⚠️ WARNING**: For educational purposes only. Unauthorized use is illegal!
+
+⚠️ Disclaimer:
+This tool is intended for authorized security testing, educational, and research purposes only.  
+The author is not responsible for any misuse or unauthorized use of this software.  
+Always obtain proper permission before scanning any system.
