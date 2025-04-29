@@ -22,9 +22,3 @@ It performs port scanning, HTTP service analysis, and directory brute-force enum
 ```bash
 git clone https://github.com/EtherealSentinel/Sentinel-Scan.git
 cd Sentinel-Scan
-pip install -r requirements.txt
-
-
-
-
-
