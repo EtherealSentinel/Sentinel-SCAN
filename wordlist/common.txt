@@ -1,0 +1,9 @@
+admin
+login
+config
+uploads
+images
+backup
+server-status
+dashboard
+phpinfo.php
